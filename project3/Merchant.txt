@@ -1,0 +1,11 @@
+Between the 5 of you, you have 100 gold coins. You need to spend your money
+on the following items:
+-  INGREDIENTS. To make food, you have to cook raw ingredients.
+-  COOKWARE. If you want to cook, you have to have cookware first.
+-  WEAPONS. You’ll want at least one weapon per party member to fend off monsters.
+-  ARMOR. Armor increases the chances of surviving a monster attack.
+You can spend all of your money here before you start your journey, or you 
+can save some to spend on merchants along the way. But beware, some of the 
+merchants in this dungeon are shady characters, and they won’t always give 
+you a fair price…
+
